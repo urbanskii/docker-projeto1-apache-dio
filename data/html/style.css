@@ -1,0 +1,14 @@
+body {
+    background-color: #343a40; /* Dark gray background */
+    color: #fff; /* White text */
+}
+
+.footer {
+    padding: 20px 0;
+}
+
+.table-dark th,
+.table-dark td,
+.table-dark thead th {
+    border-color: #454d55;
+}
